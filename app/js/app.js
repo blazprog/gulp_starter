@@ -1,4 +1,4 @@
-const {person} = require('./person')
+var person = 'Blaz Korosec';
 element = document.getElementById('name');
 element.innerHTML = person;
-console.log(person)
+console.log(person);

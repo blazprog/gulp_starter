@@ -1,2 +1,2 @@
-const person = 'Blaz Korosec';
+var person = 'Blaz Korosec';
 exports.person = person;
